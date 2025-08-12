@@ -51,4 +51,4 @@ tetrisgame.github.io/\
 ├── index.html # Main HTML file with canvas\
 ├── style.css # CSS styles for centering and styling\
 ├── tetris.js # JavaScript game logic\
-└── README.md # This fil\
+└── README.md # This file
