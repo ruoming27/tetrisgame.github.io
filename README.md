@@ -47,6 +47,9 @@ Play the game live here:
 
 ## Project Structure
 tetrisgame.github.io/
+aaa
+aaaa
+aaa
 │
 ├── index.html # Main HTML file with canvas
 ├── style.css # CSS styles for centering and styling
