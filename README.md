@@ -1,3 +1,4 @@
+
 # Tetris Game 🎮
 
 A classic Tetris game implemented in JavaScript and rendered on HTML5 Canvas.
@@ -22,9 +23,7 @@ Play the game live here:
 - Scalable canvas rendering with simple CSS styling
 
 ---
-bbb
-bbb
-ccc
+
 ## Controls
 
 | Key          | Action           |
@@ -48,12 +47,8 @@ ccc
 ---
 
 ## Project Structure
-tetrisgame.github.io/
-aaa
-aaaa
-aaa
-│
-├── index.html # Main HTML file with canvas
-├── style.css # CSS styles for centering and styling
-├── tetris.js # JavaScript game logic
-└── README.md # This file
+tetrisgame.github.io/\
+├── index.html # Main HTML file with canvas\
+├── style.css # CSS styles for centering and styling\
+├── tetris.js # JavaScript game logic\
+└── README.md # This fil\
